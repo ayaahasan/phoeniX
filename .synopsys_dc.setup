@@ -1,0 +1,5 @@
+set search_path "$search_path /home/alia/Silterra110/upm/c11al/stdcell/t7d_1p2v/r1p0/db /home/alia/Silterra110/upm/c11al/stdcell/t7d_1p2v/r1p0/sdb"
+
+set target_library "t7d_1p2v_tt_1.2v_25c.db"
+set link_library " * $target_library"
+set symbol_library "t7d_1p2v.sdb"
