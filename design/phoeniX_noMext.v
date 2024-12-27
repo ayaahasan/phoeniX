@@ -20,8 +20,8 @@
 `include "Hazard_Forward_Unit.v"
 `include "Control_Status_Unit.v"
 `include "Control_Status_Register_File.v"
-`include "Divider_Unit.v"
-`include "Multiplier_Unit.v"
+//`include "Divider_Unit.v"
+//`include "Multiplier_Unit.v"
 
 module phoeniX 
 #(
